@@ -1,1 +1,1 @@
-The Hysteretic Q-Learning paper and the documentation for the code are inside the repository.
+Run training.py first then test.py
