@@ -1,3 +1,14 @@
-# 增強式學習演算法於多智能體系統中的競爭與合作策略探究
+# Exploration of Competitive and Cooperative Strategies of Reinforcement Learning Algorithms in Multi-Agent Systems 
 
-隨著人工智慧的發展愈來愈成熟，許多機器學習演算法被提出且成功地解決了各種 不同領域的問題。然而何種演算法適用在何種環境仍是許多使用者在意的議題，因此在本論文中我們探討了不同類型的增強式學習架構在多代理人系統處於不同環境下之效能。首先會先探討增強式學習的基本理論，了解增強式學習不同於其他機器學習技術的特性和特色。接著再探討由增強式學習架構所延伸出的演算法，包 Value-based 的 Hysteretic Q-Learning 和 CPM(Cooperative Policy Mechanism)與 Policy-based 的 WoLF PHC(Win or Learn Fast Policy Hill Climbing)共三種演算法。理解完各個演算法的核心概 念後則會進行一種競爭型任務：Matching Pennies 和兩種合作型任務：Ball Balance 和 Pursuit Domain 的實驗，並根據實驗數據討論導致其結果的可能原因。最後再根據討論的結果做出結論。
+As the development of artificial intelligence becomes more and more mature, many 
+machine learning algorithms have been proposed and successfully solved problems in various 
+fields. However, which algorithm is suitable in which environment is still an issue that many 
+users are concerned about. Therefore, in this paper, we explore the effectiveness of different 
+types of reinforcement learning architectures in multi-agent systems in different environments. 
+First, we discuss the basic theory of reinforcement learning, and then we explore the algorithms 
+extended by the reinforcement learning architecture, including Value-based Hysteretic Q
+Learning and CPM and Policy-based WoLF PHC. After understanding the core concepts of 
+each algorithm, we conduct experiments on a competitive task: Matching Pennies and two 
+cooperative tasks: Ball Balance and Pursuit Domain, and discuss the possible reasons for the 
+results based on the experimental data. Finally, conclusions were drawn based on the discussion 
+results. 
